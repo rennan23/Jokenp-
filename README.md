@@ -2,4 +2,4 @@
 - <h3> esse projeto foi completamente personalizado por min estou botando em pratica algumas coisas que eu aprendi.</h3>
 - <h4>ainda a muita coisas para aprender</h4>
 - <p> RENNAN JULIO</p>
-- <img src="./assets/florian-olivo-4hbJ-eymZ1o-unsplash.htm"    />
+- <img src="florian-olivo-4hbJ-eymZ1o-unsplash.htm"    />
